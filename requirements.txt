@@ -1,0 +1,9 @@
+#pip packages to install
+gym
+opencv-python
+regex
+win32gui
+tensorflow
+numpy
+tensorflow-probability
+
